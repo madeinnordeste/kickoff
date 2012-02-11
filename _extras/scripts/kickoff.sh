@@ -1,13 +1,14 @@
 #!/bin/bash
 
-# Kickoff auto install
-# based on oil ( fuelphp.com )
-# autor: luiz alberto <madeinnordeste@gmail.com>
+# Kickoff auto install  instalador automatico
+# Baseado no oil ( fuelphp.com )
+# Autor: luiz alberto <madeinnordeste@gmail.com>
 #
-# example of use:
+# exemplo de uso:
 # ./kickoff create /home/luiz/sites/blog
 # 
-# this script download kickoff and set permission in cache and log folders.
+# Este script fara download do kickoff e setará as permissões
+# nos diretórios de cache e logs
 
 if [ "$1" == "create" ]; then
 	
