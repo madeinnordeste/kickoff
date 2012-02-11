@@ -31,13 +31,13 @@ Necessita do rsync (http://rsync.samba.org)  e permissão de execução:
 
 ## Projetos em uso:
 
-    * Kohana - http://kohanaframework.org/
+* Kohana - http://kohanaframework.org/
     
-    * Twitter Boostrap - https://github.com/twitter/bootstrap/
+* Twitter Boostrap - https://github.com/twitter/bootstrap/
     
-    * jQuery - http://jquery.com/
+* jQuery - http://jquery.com/
     
-    * rsync - http://rsync.samba.org
+* rsync - http://rsync.samba.org
     
     
     

@@ -19,10 +19,16 @@ if [ "$1" == "create" ]; then
         echo ' - - - - - - - - - - - - - - - - - - - - - - - - - - - - -'
     fi
 		
-    #git clone --recursive git://github.com/madeinnordeste/kickoff.git "./$2"
-    git clone --recursive git://github.com/madeinnordeste/kickoff.git "$2" 
+    # Clona o projeto do github
+    git clone --recursive git://github.com/madeinnordeste/kickoff.git "$2"
+    
+    # seta as permissoes iniciais necessarias do projeto 
     chmod 0777 "$2/application/logs"
     chmod 0777 "$2/application/cache"
+    
+    # remove o diretorio .git
+    rm -Rf "$2/.git"
+    
     #mv "$2/install.php" "$2/-install.php"
     
 else
