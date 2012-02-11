@@ -1,3 +1,11 @@
-# Kohana PHP Framework, version 3.0 (dev)
+Base para desenvolvimento de aplicações web
 
-This is the current development version of [Kohana](http://kohanaframework.org/).
+# DOCUMENTAÇÃO
+
+## Projetos em uso:
+
+    * Kohana - http://kohanaframework.org/
+    
+    
+
+
