@@ -1,0 +1,10 @@
+.gitignore
+example.htaccess
+.htaccess
+.git/
+_extras/
+.DS_Store
+uploads/*
+application/logs/*
+application/cache/*
+application/config/database.php

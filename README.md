@@ -4,19 +4,29 @@ Base para desenvolvimento de aplicações web
 
 ## Scripts
     
-    Scripts utilitários, salvos em _extras/scripts
+Scripts utilitários, salvos em _extras/scripts
 
-    ### kickoff.sh
+### kickoff.sh
     
-    Instalador automatico do Kickoff
+Instalador automatico do Kickoff
     
-        ./kickoff.sh create /home/luiz/sites/blog
+    ./kickoff.sh create /home/luiz/sites/blog
         
-    É necessário permissão de execução para o mesmo:
+É necessário permissão de execução para o mesmo:
     
-        chmod +x kickoff.sh
+    chmod +x kickoff.sh
         
-        
+### upload.sh
+
+Envia os arquivos modificados ao servidor.
+
+Parametros configuraveis dentro do propio arquivo _extras/scripts/upload.sh
+
+    ./upload.sh
+
+Necessita do rsync (http://rsync.samba.org)  e permissão de execução:
+    
+    chmod +x upload.sh
         
 
 ## Projetos em uso:
@@ -26,6 +36,8 @@ Base para desenvolvimento de aplicações web
     * Twitter Boostrap - https://github.com/twitter/bootstrap/
     
     * jQuery - http://jquery.com/
+    
+    * rsync - http://rsync.samba.org
     
     
     
