@@ -25,6 +25,7 @@ if [ "$1" == "create" ]; then
     # seta as permissoes iniciais necessarias do projeto 
     chmod 0777 "$2/application/logs"
     chmod 0777 "$2/application/cache"
+    chmod 0777 "$2/uploads"
     
     # remove o diretorio .git
     rm -Rf "$2/.git"
