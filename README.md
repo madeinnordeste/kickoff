@@ -6,6 +6,11 @@ Base para desenvolvimento de aplicações web
 
     * Kohana - http://kohanaframework.org/
     
+    * Twitter Boostrap - https://github.com/twitter/bootstrap/
+    
+    * jQuery - http://jquery.com/
+    
+    
     
 
 
