@@ -26,6 +26,7 @@ if [ "$1" == "create" ]; then
     chmod 0777 "$2/application/logs"
     chmod 0777 "$2/application/cache"
     chmod 0777 "$2/uploads"
+    chmod 0777 "$2/static/minify"
     
     # remove o diretorio .git
     rm -Rf "$2/.git"

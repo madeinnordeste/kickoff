@@ -1,1 +1,10 @@
+#ignorar arquivos especificos
+.DS_Store
+
+#arquivos e diretorios
+application/logs/*
+application/cache/*
+!uploads/index.html
+uploads/*
+static/minify/*
 
