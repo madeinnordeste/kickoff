@@ -35,7 +35,9 @@ Necessita do rsync (http://rsync.samba.org)  e permissão de execução:
     
 * Twitter Boostrap - https://github.com/twitter/bootstrap/
     
-* jQuery - http://jquery.com/
+* jQuery - http://jquery.com/ 
+
+* jQuery Mobile - http://jquerymobile.com/ 
     
 * rsync - http://rsync.samba.org
     
