@@ -1,3 +1,6 @@
 [submodule "modules/kohana-pagseguro"]
 	path = modules/kohana-pagseguro
 	url = git://github.com/madeinnordeste/kohana-pagseguro.git
+[submodule "modules/kohana-timthumb"]
+	path = modules/kohana-timthumb
+	url = git://github.com/madeinnordeste/kohana-timthumb.git
