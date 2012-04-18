@@ -7,3 +7,6 @@
 [submodule "modules/kohana-tinyurl"]
 	path = modules/kohana-tinyurl
 	url = git@github.com:madeinnordeste/kohana-tinyurl.git
+[submodule "modules/kohana-twitter"]
+	path = modules/kohana-twitter
+	url = git@github.com:madeinnordeste/kohana-twitter.git
