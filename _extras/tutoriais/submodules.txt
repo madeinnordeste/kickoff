@@ -1,15 +1,18 @@
-git submodules
+# git submodules
 ---------------
 https://github.com/carlosdelfino/git_na_pratica/blob/desenrolar_submodulo/30.02.submodulo-no-github.md 
 
-    Adicionar Submodulo
+## Adicionar Submodulo
     
     git submodule add git://github.com/madeinnordeste/MODULE.git modules/MODULE
     
     
-    Resgatar submodulos ao clona repositorio
+## Resgatar submodulos ao clona repositorio
     
     git submodule init [nome-do-modulo]
     
     git submodule update [nome-do-modulo]
 
+## Push do submodulo
+
+    git push -u origin master
