@@ -6,4 +6,4 @@
 	url = git://github.com/madeinnordeste/kohana-timthumb.git
 [submodule "modules/kohana-tinyurl"]
 	path = modules/kohana-tinyurl
-	url = git://github.com/madeinnordeste/kohana-tinyurl.git
+	url = git@github.com:madeinnordeste/kohana-tinyurl.git
