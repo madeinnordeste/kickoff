@@ -1,0 +1,26 @@
+{2012/04/05 11:39:51} [Info] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - begin 
+{2012/04/05 11:39:53} [Error] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/05 11:40:50} [Info] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - begin 
+{2012/04/05 11:40:51} [Error] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/05 11:43:53} [Info] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - begin 
+{2012/04/05 11:43:54} [Error] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/05 11:44:58} [Info] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - begin 
+{2012/04/05 11:44:58} [Error] PaymentService.Register(PaymentRequest(Reference=7D27049A324E1FBE2CC030B814703CFE,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/05 16:28:47} [Info] PaymentService.Register(PaymentRequest(Reference=83900689AF08CB9846C6C0DDECDD17BF,     SenderEmail=null)) - begin 
+{2012/04/05 16:28:48} [Info] PaymentService.Register(PaymentRequest(Reference=83900689AF08CB9846C6C0DDECDD17BF,     SenderEmail=null)) - end {1}F50359443F3FEF5884C90F96585DD3B5 
+{2012/04/09 13:58:45} [Info] PaymentService.Register(PaymentRequest(Reference=E9EAE8043B0FAD62D404F142BD708CCD,     SenderEmail=null)) - begin 
+{2012/04/09 13:58:48} [Error] PaymentService.Register(PaymentRequest(Reference=E9EAE8043B0FAD62D404F142BD708CCD,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/09 14:00:59} [Info] PaymentService.Register(PaymentRequest(Reference=FDB5822E330FA930BC08CAC047F224FA,     SenderEmail=null)) - begin 
+{2012/04/09 14:01:00} [Error] PaymentService.Register(PaymentRequest(Reference=FDB5822E330FA930BC08CAC047F224FA,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/09 14:06:25} [Info] PaymentService.Register(PaymentRequest(Reference=9668B27E515241CEE188CD780601AAEE,     SenderEmail=null)) - begin 
+{2012/04/09 14:06:27} [Error] PaymentService.Register(PaymentRequest(Reference=9668B27E515241CEE188CD780601AAEE,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/09 14:08:49} [Info] PaymentService.Register(PaymentRequest(Reference=AA06CC08074D455B48054E7A7437E8F6,     SenderEmail=null)) - begin 
+{2012/04/09 14:08:50} [Error] PaymentService.Register(PaymentRequest(Reference=AA06CC08074D455B48054E7A7437E8F6,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/10 10:07:04} [Info] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - begin 
+{2012/04/10 10:07:05} [Error] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11025] - Item Id is required.[11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/10 10:20:10} [Info] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - begin 
+{2012/04/10 10:20:12} [Error] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11025] - Item Id is required.[11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/10 10:20:41} [Info] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - begin 
+{2012/04/10 10:20:42} [Error] PaymentService.Register(PaymentRequest(Reference=,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11025] - Item Id is required.[11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
+{2012/04/16 11:50:54} [Info] PaymentService.Register(PaymentRequest(Reference=33E849AE50D64BB457949B6E5035A43A,     SenderEmail=null)) - begin 
+{2012/04/16 11:50:58} [Error] PaymentService.Register(PaymentRequest(Reference=33E849AE50D64BB457949B6E5035A43A,     SenderEmail=null)) - error [HTTP 400] - BAD_REQUEST [11007] - redirectURL invalid value: http://localhost/consuma/classificadosdealagoas.com.br/me 
