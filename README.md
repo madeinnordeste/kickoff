@@ -1,3 +1,5 @@
+![Kickoff](https://github.com/madeinnordeste/kickoff/blob/master/_extras/kickoff.png)  
+
 Base para desenvolvimento de aplicações web
 
 # DOCUMENTAÇÃO 
