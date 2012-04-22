@@ -10,3 +10,6 @@
 [submodule "modules/kohana-twitter"]
 	path = modules/kohana-twitter
 	url = git@github.com:madeinnordeste/kohana-twitter.git
+[submodule "modules/kohana-issuu"]
+	path = modules/kohana-issuu
+	url = https://github.com/madeinnordeste/kohana-issuu
