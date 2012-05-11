@@ -6,5 +6,9 @@ class Controller_Welcome extends Controller {
 	{
 		$this->request->response = 'hello, world!';
 	}
+	
+	public function action_enviroment(){
+	    echo Kohana::debug(Kohana::$environment);
+	}
 
 } // End Welcome

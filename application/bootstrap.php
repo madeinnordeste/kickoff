@@ -44,6 +44,8 @@ if (isset($_ENV['KOHANA_ENV']))
 {
 	Kohana::$environment = $_ENV['KOHANA_ENV'];
 }
+//set application enviroment
+Kohana::$environment = ($_SERVER['SERVER_NAME'] !== 'localhost') ? Kohana::PRODUCTION : Kohana::DEVELOPMENT;
 
 /**
  * Initialize Kohana, setting the default options.
