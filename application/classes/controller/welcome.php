@@ -4,7 +4,8 @@ class Controller_Welcome extends Controller {
 
 	public function action_index()
 	{
-		$this->request->response = 'hello, world!';
+		//$this->request->response = 'hello, world!';
+		
 	}
 	
 	public function action_enviroment(){
