@@ -19,3 +19,6 @@
 [submodule "modules/kohana-sagui"]
 	path = modules/kohana-sagui
 	url = git@github.com:madeinnordeste/kohana-sagui.git
+[submodule "modules/kohana-html-plus"]
+	path = modules/kohana-html-plus
+	url = git@github.com:madeinnordeste/kohana-html-plus.git
