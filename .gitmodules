@@ -12,4 +12,7 @@
 	url = git@github.com:madeinnordeste/kohana-twitter.git
 [submodule "modules/kohana-issuu"]
 	path = modules/kohana-issuu
-	url = https://github.com/madeinnordeste/kohana-issuu
+	url = git@github.com:madeinnordeste/kohana-issuu.git
+[submodule "modules/kohana-simple-html-dom"]
+	path = modules/kohana-simple-html-dom
+	url = git://github.com/madeinnordeste/kohana-simple-html-dom.git
