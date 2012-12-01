@@ -34,8 +34,6 @@ Necessita do rsync (http://rsync.samba.org)  e permissão de execução:
 
 * Kohana - http://kohanaframework.org/
     
-* Twitter Boostrap - https://github.com/twitter/bootstrap/
-    
 * jQuery - http://jquery.com/ 
 
 * jQuery Mobile - http://jquerymobile.com/ 
