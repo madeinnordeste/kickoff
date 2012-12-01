@@ -22,3 +22,6 @@
 [submodule "modules/kohana-html-plus"]
 	path = modules/kohana-html-plus
 	url = git@github.com:madeinnordeste/kohana-html-plus.git
+[submodule "modules/kohana-twitter-bootstrap"]
+	path = modules/kohana-twitter-bootstrap
+	url = git@github.com:madeinnordeste/kohana-twitter-bootstrap.git
