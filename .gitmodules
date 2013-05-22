@@ -25,3 +25,6 @@
 [submodule "modules/kohana-twitter-bootstrap"]
 	path = modules/kohana-twitter-bootstrap
 	url = git@github.com:madeinnordeste/kohana-twitter-bootstrap.git
+[submodule "modules/kohana-sumpleauth"]
+	path = modules/kohana-sumpleauth
+	url = git@github.com:madeinnordeste/kohana-simpleauth.git
